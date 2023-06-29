@@ -1,1 +1,1 @@
-# understanding-splade
+# Understanding Splade
