@@ -1,6 +1,6 @@
 # Understanding Splade
 
-This repository contains the code for the paper: Exploring the Representation Power of SPLADE Models, ICTIR2023.
+This repository contains the code for the paper: [Exploring the Representation Power of SPLADE Models](https://arxiv.org/pdf/2306.16680.pdf), ICTIR2023.
 
 ## Installation
 We modify the [Tevatron](https://github.com/texttron/tevatron/) toolkit for our experiments.
