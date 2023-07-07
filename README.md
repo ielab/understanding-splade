@@ -12,6 +12,8 @@ pip install --editable .
 ```
 Then, install all the dependencies requried by tevatron follow the tevatron instructions.
 
+You also will need to install [pyserini](https://github.com/castorini/pyserini) by `pip install pyserini` for indexing SPLADE encodings and evaluation.
+
 
 ## Experiments
 The scripts that can reproduced our results in end-to-end manner are in the `tevatron/examples/splade` folder.
